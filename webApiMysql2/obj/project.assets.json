@@ -718,26 +718,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rui26\\.nuget\\packages\\": {}
+    "C:\\Users\\diksh.LAPTOP-29QSU7Q5\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rui26\\PycharmProjects\\woods\\webApiMysql2\\webApiMysql2.csproj",
+      "projectUniqueName": "C:\\Users\\diksh.LAPTOP-29QSU7Q5\\Desktop\\UNI\\Uni (4SEM)\\Integrecao Sistemas\\projeto\\fase segundo\\woods\\webApiMysql2\\webApiMysql2.csproj",
       "projectName": "webApiMysql2",
-      "projectPath": "C:\\Users\\rui26\\PycharmProjects\\woods\\webApiMysql2\\webApiMysql2.csproj",
-      "packagesPath": "C:\\Users\\rui26\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rui26\\PycharmProjects\\woods\\webApiMysql2\\obj\\",
+      "projectPath": "C:\\Users\\diksh.LAPTOP-29QSU7Q5\\Desktop\\UNI\\Uni (4SEM)\\Integrecao Sistemas\\projeto\\fase segundo\\woods\\webApiMysql2\\webApiMysql2.csproj",
+      "packagesPath": "C:\\Users\\diksh.LAPTOP-29QSU7Q5\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\diksh.LAPTOP-29QSU7Q5\\Desktop\\UNI\\Uni (4SEM)\\Integrecao Sistemas\\projeto\\fase segundo\\woods\\webApiMysql2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rui26\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\diksh.LAPTOP-29QSU7Q5\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -797,7 +795,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
