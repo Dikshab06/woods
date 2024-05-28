@@ -71,3 +71,40 @@ c:\Users\rui26\PycharmProjects\woods\webApiMysql2\obj\Debug\net8.0\scopedcss\bun
 C:\Users\rui26\PycharmProjects\woods\webApiMysql2\obj\Debug\net8.0\webApiMy.5C8E05DC.Up2Date
 C:\Users\rui26\PycharmProjects\woods\webApiMysql2\obj\Debug\net8.0\webApiMysql2.genruntimeconfig.cache
 C:\Users\rui26\PycharmProjects\woods\webApiMysql2\obj\Debug\net8.0\ref\webApiMysql2.dll
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\bin\Debug\net8.0\appsettings.json
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\bin\Debug\net8.0\webApiMysql2.exe
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\bin\Debug\net8.0\webApiMysql2.deps.json
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\bin\Debug\net8.0\webApiMysql2.runtimeconfig.json
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\bin\Debug\net8.0\webApiMysql2.dll
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\bin\Debug\net8.0\webApiMysql2.pdb
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\bin\Debug\net8.0\MySqlConnector.dll
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\bin\Debug\net8.0\MySqlConnector.DependencyInjection.dll
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\bin\Debug\net8.0\Newtonsoft.Json.dll
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\webApiMysql2.csproj.AssemblyReference.cache
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\webApiMysql2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\webApiMysql2.AssemblyInfoInputs.cache
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\webApiMysql2.AssemblyInfo.cs
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\webApiMysql2.csproj.CoreCompileInputs.cache
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\webApiMysql2.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\webApiMysql2.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\webApiMysql2.sourcelink.json
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\staticwebassets\msbuild.webApiMysql2.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\staticwebassets\msbuild.build.webApiMysql2.props
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.webApiMysql2.props
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.webApiMysql2.props
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\scopedcss\bundle\webApiMysql2.styles.css
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\webApiMy.5C8E05DC.Up2Date
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\webApiMysql2.dll
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\refint\webApiMysql2.dll
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\webApiMysql2.pdb
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\webApiMysql2.genruntimeconfig.cache
+c:\Users\diksh.LAPTOP-29QSU7Q5\Desktop\UNI\Uni (4SEM)\Integrecao Sistemas\projeto\fase segundo\woods\webApiMysql2\obj\Debug\net8.0\ref\webApiMysql2.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diksh.LAPTOP-29QSU7Q5\\Desktop\\UNI\\Uni (4SEM)\\Integrecao Sistemas\\projeto\\fase segundo\\woods\\webApiMysql2\\webApiMysql2.csproj": {}
+    "c:\\Users\\diksh.LAPTOP-29QSU7Q5\\Desktop\\UNI\\Uni (4SEM)\\Integrecao Sistemas\\projeto\\fase segundo\\woods\\webApiMysql2\\webApiMysql2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diksh.LAPTOP-29QSU7Q5\\Desktop\\UNI\\Uni (4SEM)\\Integrecao Sistemas\\projeto\\fase segundo\\woods\\webApiMysql2\\webApiMysql2.csproj": {
+    "c:\\Users\\diksh.LAPTOP-29QSU7Q5\\Desktop\\UNI\\Uni (4SEM)\\Integrecao Sistemas\\projeto\\fase segundo\\woods\\webApiMysql2\\webApiMysql2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diksh.LAPTOP-29QSU7Q5\\Desktop\\UNI\\Uni (4SEM)\\Integrecao Sistemas\\projeto\\fase segundo\\woods\\webApiMysql2\\webApiMysql2.csproj",
+        "projectUniqueName": "c:\\Users\\diksh.LAPTOP-29QSU7Q5\\Desktop\\UNI\\Uni (4SEM)\\Integrecao Sistemas\\projeto\\fase segundo\\woods\\webApiMysql2\\webApiMysql2.csproj",
         "projectName": "webApiMysql2",
-        "projectPath": "C:\\Users\\diksh.LAPTOP-29QSU7Q5\\Desktop\\UNI\\Uni (4SEM)\\Integrecao Sistemas\\projeto\\fase segundo\\woods\\webApiMysql2\\webApiMysql2.csproj",
+        "projectPath": "c:\\Users\\diksh.LAPTOP-29QSU7Q5\\Desktop\\UNI\\Uni (4SEM)\\Integrecao Sistemas\\projeto\\fase segundo\\woods\\webApiMysql2\\webApiMysql2.csproj",
         "packagesPath": "C:\\Users\\diksh.LAPTOP-29QSU7Q5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diksh.LAPTOP-29QSU7Q5\\Desktop\\UNI\\Uni (4SEM)\\Integrecao Sistemas\\projeto\\fase segundo\\woods\\webApiMysql2\\obj\\",
+        "outputPath": "c:\\Users\\diksh.LAPTOP-29QSU7Q5\\Desktop\\UNI\\Uni (4SEM)\\Integrecao Sistemas\\projeto\\fase segundo\\woods\\webApiMysql2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diksh.LAPTOP-29QSU7Q5\\AppData\\Roaming\\NuGet\\NuGet.Config"
